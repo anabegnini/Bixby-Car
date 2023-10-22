@@ -22,7 +22,7 @@ The hardware structure:
 
 The assembled mobile robot structure:
 
-![Robot](images/robot.jpg)
+![robot](images/robot.jpg)
 
 ## Project structure
 - carbixby.capsule: Bixby Capsule Folder. A capsule is a set of models, views, events, actions, and other structures that allow Bixby to understand and respond to user requests.
