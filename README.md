@@ -1,15 +1,18 @@
 # Bixby-Car
 Prototype of a mobile robot controlled by Samsung's virtual assistant, Bixby. 
+
 Material used:
 - 2WD chassis kit;
 - 2 DC motors;
 - Raspberry Pi 3;
 - Driver L298N;
 - Power bank.
+
 Programming languages: Python and Bixby language
 
 ## Goal
 Use the Raspberry Pi as a web server to receive commands from Bixby. Furthermore, use the raspberry as a controller for the motors and carry out locomotion according to the commands received from the virtual assistant.
+
 The server code raises a local web server, so to create a tunnel and expose the server port for external communications, [ngrok](https://ngrok.com/) was used.
 
 ## Hardware
@@ -17,7 +20,7 @@ The hardware structure:
 ![scheme](images/scheme.png)
 
 The assembled mobile robot structure:
-![Robot](images/robot.png)
+![Robot](images/robot.jpg)
 
 ## Project structure
 - carbixby.capsule: Bixby Capsule Folder. A capsule is a set of models, views, events, actions, and other structures that allow Bixby to understand and respond to user requests.
