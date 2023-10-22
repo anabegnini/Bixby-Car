@@ -8,7 +8,7 @@ Material used:
 - Driver L298N;
 - Power bank.
 
-Programming languages: Python and Bixby language
+Programming languages: Python and Bixby language (including JavaScript)
 
 ## Goal
 Use the Raspberry Pi as a web server to receive commands from Bixby. Furthermore, use the raspberry as a controller for the motors and carry out locomotion according to the commands received from the virtual assistant.
