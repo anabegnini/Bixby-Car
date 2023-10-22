@@ -1,0 +1,5 @@
+train (t-rt532fpcen7p8fu4kknyygyxh) {
+  utterance ("[g:MovethecarConcept] (Stop)[v:commandConcept] the car")
+  plan (Y2BmUEpOLErKrEiq1EtOLCguzUnV880vSy3JSAWKO+fnJacWlDBIY6jJhathkMeQTM7PzU3MS4HpZmJgBGIGIMnIAAJMEAwA)
+  last-modified (1583175685889)
+}

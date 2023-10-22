@@ -1,0 +1,20 @@
+result-view {
+  match {
+    MovethecarConcept(movecommand)
+  }
+
+  render {
+    layout {
+      section {
+        content{
+          single-line {
+            text {
+              style (Detail_M)
+              value ("Comando: #{value(movecommand.sendedcommand)}")
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+dialog (Concept) {
+
+  match{
+    commandConcept
+  }
+
+  template("Command")
+}

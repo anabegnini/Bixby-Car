@@ -1,0 +1,24 @@
+dialog (Result) {
+
+  match{
+    MovethecarConcept(movecommand)
+  }
+
+  switch (movecommand.sendedcommand) {
+    case ("right") {
+      template("The car is turning right")
+    }
+    case ("left") {
+      template("The car is turning left")
+    }
+    case ("forward") {
+      template("The car is going forward")
+    }
+    case ("back") {
+      template("The car is going back")
+    }
+    case ("Stop") {
+      template("The car is stopping")
+    }
+  }
+}

@@ -1,0 +1,5 @@
+train (t-t545uooeel76lbkk9f3u0adgc) {
+  utterance ("[g:MovethecarConcept] Go (forward)[v:commandConcept]")
+  plan (Y2BmUEpOLErKrEiq1EtOLCguzUnV880vSy3JSAWKO+fnJacWlDBIY6jJhathkMeQTM7PzU3MS4HpZmJgBGIGIMnIAAJMEAwA)
+  last-modified (1583183882258)
+}

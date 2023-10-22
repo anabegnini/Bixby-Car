@@ -1,0 +1,12 @@
+action (movethecar) {    
+  collect {
+    input (command) {
+      type (commandConcept)
+      min (Required)
+      max (One)
+    }   
+  }
+
+  output (MovethecarConcept) 
+  type (Search) 
+}

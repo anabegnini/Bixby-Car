@@ -1,0 +1,9 @@
+capsule-info {
+  display-name (bixby car)
+  dispatch-name (bixby car)
+  developer-name (__COMPANY_NAME__)
+  icon-asset (/images/Carbixby.jpeg)
+  description ("__DESCRIPTION__")
+  website-url (https://example.com/)
+  terms-url (https://example.com/terms-of-use/)
+}

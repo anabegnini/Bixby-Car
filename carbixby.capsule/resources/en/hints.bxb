@@ -1,0 +1,14 @@
+hints {
+    uncategorized {
+        hint ("Ask bixby car Turn the car to the left") {
+          preferred-hint ("turn left")
+        }
+        hint ("Ask bixby car Turn the car to the right") {
+          preferred-hint ("turn right")
+        }
+        hint ("Ask bixby car Move the car foward") {
+          preferred-hint ("Play a dice game")
+        }
+        
+    }
+}

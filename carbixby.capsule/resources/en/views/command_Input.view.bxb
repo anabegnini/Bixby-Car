@@ -1,0 +1,24 @@
+input-view {
+  match {
+    commandConcept (this)
+  }
+
+  render {
+    form {
+      elements {
+        text-input {
+          id (command)
+          type (commandConcept)
+        }
+      }
+      on-submit {
+        goal {
+          MovethecarConcept
+        }
+        value {
+          viv.core.FormElement(command)
+        }
+      }
+    }
+  }
+}

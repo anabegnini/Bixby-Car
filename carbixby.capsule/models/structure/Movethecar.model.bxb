@@ -1,0 +1,8 @@
+structure (MovethecarConcept) {
+  description (Move the car according to the command)
+  property (sendedcommand) {
+    type (sendcommandConcept)
+    min (Required)
+    max (One)
+  }
+}
