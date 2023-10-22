@@ -17,10 +17,12 @@ The server code raises a local web server, so to create a tunnel and expose the 
 
 ## Hardware
 The hardware structure:
-![scheme](images/scheme.png)
+
+![scheme](images/scheme.png =x250)
 
 The assembled mobile robot structure:
-![Robot](images/robot.jpg)
+
+![Robot](images/robot.jpg =x250)
 
 ## Project structure
 - carbixby.capsule: Bixby Capsule Folder. A capsule is a set of models, views, events, actions, and other structures that allow Bixby to understand and respond to user requests.
@@ -28,6 +30,7 @@ The assembled mobile robot structure:
 
 ## Extra information
 This project was developed through my activities at Samsung Ocean Brasil.
+
 This project was presented at the events:
 - [Arduino Day Manaus 2021](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sympla.com.br%2Farduino-day-manaus-21__1164006&psig=AOvVaw2rE1bwGn6smxoTRaQ7BW0G&ust=1698100969070000&source=images&cd=vfe&ved=0CBIQjhxqFwoTCNjx0JfdioIDFQAAAAAdAAAAABAE)
 - [IOT Week 2020](https://www.instagram.com/p/CH7_SXjjYyl/?igshid=MmU2YjMzNjRlOQ==)
