@@ -1,4 +1,4 @@
-# Bixby-Car
+# Voice-Car
 Prototype of a mobile robot controlled by Samsung's virtual assistant, Bixby. 
 
 Material used:
@@ -27,6 +27,10 @@ The assembled mobile robot structure:
 ## Project structure
 - carbixby.capsule: Bixby Capsule Folder. A capsule is a set of models, views, events, actions, and other structures that allow Bixby to understand and respond to user requests.
 - RobotCode: codes run on the raspberry pi. Local web server and control of the robot's DC motors.
+
+## Run this project
+- On Raspberry Pi: run the **server.py** file.
+- On [Bixby Studio Developer](https://bixbydevelopers.com/): compile, submit and load the capsule(**carbixby.capsule**) on a Samsung smartphone that supports Bixby. The capsule was developed in the Bixby Studio playground. 
 
 ## Extra information
 This project was developed through my activities at Samsung Ocean Brasil.
